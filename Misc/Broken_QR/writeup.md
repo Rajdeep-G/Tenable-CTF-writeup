@@ -18,4 +18,6 @@ print([ chr(int(x, 2)) for x in a])
 ## flag{d4mn_it_w0nt_sk4n}
 
 
+
+
 Additional : https://medium.com/@nteezy/how-to-decode-a-partially-visible-or-damaged-qr-code-a-ctf-writeup-for-stack-the-flags-2020-4ef0eb6a018f
