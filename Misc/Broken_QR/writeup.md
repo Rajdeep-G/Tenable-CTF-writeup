@@ -12,8 +12,13 @@ a=["11110001","10100100","00010111","01100110","01101100","01100001","01101101",
 Its enough now to complete the question
 
 ```py
-print([ chr(int(x, 2)) for x in a])
+s=([ chr(int(x, 2)) for x in a])
+print(*s,end='')
 ```
+Output 
+
+```ñ ¤  f l a m ~ d 4 m n _ i t _ w 0 n t _ s k 4 n }  ,  ì  ì  ì  Û ç Ë K ± | > c þ```
+
 
 ## flag{d4mn_it_w0nt_sk4n}
 
