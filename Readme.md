@@ -7,4 +7,18 @@ Link https://tenable.ctfd.io
 **Challenges Close**: Monday, February 22, 2021 at 12:00 pm EST 
 
 
-Thanx to @arnabsen1729 for the amazing python script for getting all the qs in few seconds.
+# Our Team:- hackboiz
+
+
+## Team Members:-
+
+[Rajdeep](https://github.com/Rajdeep-G/) 
+
+[kriish](https://github.com/berakrishnendu36/)
+
+[arnabsen1729](https://github.com/arnabsen1729/)
+
+Our final score- 
+Our final rank-
+
+Thanx to [arnabsen1729](https://github.com/arnabsen1729/) for the amazing python script [https://github.com/arnabsen1729/ctfd-challenge-scraper] for getting all the qs in few seconds.
